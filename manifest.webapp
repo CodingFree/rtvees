@@ -1,6 +1,6 @@
 {
-  "name": "RTVE.es",
-  "description": "RTVE.es noticias, versión móvil",
+  "name": "Gmail Webapp",
+  "description": "Gmail Webapp, just a simple Gmail client.",
   "launch_path": "/index.html",
   "version": "1.0",
   "icons": {
@@ -14,8 +14,8 @@
     "256": "/img/icons/256.png"
   },
   "developer": {
-    "name": "Guillermo López, Mozilla Hispano",
-    "url": "http://github.com/mozillahispano/"
+    "name": "CodingFree",
+    "url": "http://github.com/CodingFree/"
   },
   "default_locale": "es",
   "chrome": { "navigation": true }
